@@ -23,7 +23,7 @@ const ArrayCarro = [{
 const objCarro = {
   "color": "morado",
   "tipo": "suv",
-  "capacidad": 7
+  "capacidad": 49
 }
 
 //metodos
